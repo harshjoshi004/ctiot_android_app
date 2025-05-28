@@ -4,6 +4,8 @@
 
 **AroundTheCorner** is an Android application designed for seamless interaction with Bluetooth Low Energy (BLE) devices. The app enables users to scan, discover, and interact with nearby BLE devices, offering a user-friendly interface to explore advertisements and device details. It also supports user personalization and private-mode toggles for controlled access to features.
 
+🎥 [Watch Demo Video](https://www.loom.com/share/cebae960d06542f287232f510a05924a?sid=356737e1-6886-4633-8e95-6f983de6dbb7)
+
 ---
 
 ## Features
